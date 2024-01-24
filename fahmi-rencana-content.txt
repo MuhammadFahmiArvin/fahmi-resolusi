@@ -9,3 +9,4 @@ RENCANA KONTEN FAHMI
   ^ Laravel
 - Interview
 - Vlogs
+- Python
