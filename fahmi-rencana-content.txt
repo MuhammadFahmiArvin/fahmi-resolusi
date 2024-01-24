@@ -2,7 +2,11 @@ RENCANA KONTEN FAHMI
 - Java Script
   * ES6
   * Framework Java Script
+    ^ Vue
+    ^ React
 - Struktur Data Dasar
 - PHP Frameworks
+  ^ Laravel
 - Interview
 - Vlogs
+- Python
